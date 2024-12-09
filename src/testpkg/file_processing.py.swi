@@ -1,0 +1,4 @@
+[
+{function 'read_file' is the target of 'CALL' program flow from 'process_directory' function in 'directory_processing.py' file, it is the source of 'RAISE' program flow to 'FileNotFoundError' and 'IOError' exceptions},
+{function 'search_and_replace' is the target of 'CALL' program flow from 'process_directory' function in 'directory_processing.py' file}, it is the source of 'RAISE' program flow to 're.error' exception,
+{function 'write_file' is the target of 'CALL' program flow from 'process_directory' function in 'directory_processing.py' file, it is the source of 'RAISE' program flow to 'IOError' exception}]
